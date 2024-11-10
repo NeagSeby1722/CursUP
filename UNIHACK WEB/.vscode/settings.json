@@ -1,0 +1,4 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "livePreview.defaultPreviewPath": "/sbbf/opensourceschool/src/main/resources/templates/course1.html"
+}
